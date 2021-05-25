@@ -22,7 +22,7 @@
   "dependencies": {
     "buffer": "^4.7.1",
     "minimist": "^1.2.0",
-    "oscillators": "^0.3.0",
+    "oscillators": "^0.6.0",
     "pitchfinder": "^2.0.3",
     "through2": "^2.0.0",
     "wav": "^1.0.0",
